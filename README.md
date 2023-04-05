@@ -32,9 +32,9 @@ Another aspect is that the data set should be formatted in such a way that more 
 6. Splitting the data into test and train
 
 ## PROGRAM:
-NAME : AADHEESHWAR.A
+NAME : SRIJITH.R
 
-REG NO: 212221230001
+REG NO: 212221240054
 ```python
 import pandas as pd
 import io
